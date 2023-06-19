@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "4FE0DC72-1E5C-4FEF-8FCD-CAD31E36E276"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5013BA1D-95BC-4FE1-9074-94CDBD6BD19A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TicTacToe/TicTacToeViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "placeTile(x:y:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5013BA1D-95BC-4FE1-9074-94CDBD6BD19A - 4ba903b994d3893a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TicTacToe.TicTacToeViewModel.placeTile(x: Swift.Int, y: Swift.Int) -&gt; ()"
+                  moduleName = "TicTacToe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/giannastylianou/Documents/GitHub/TicTacToeApp/TicTacToe/TicTacToeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "560">
+               </Location>
+               <Location
+                  uuid = "5013BA1D-95BC-4FE1-9074-94CDBD6BD19A - 4ba903b994d38959"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TicTacToe.TicTacToeViewModel.placeTile(x: Swift.Int, y: Swift.Int) -&gt; ()"
+                  moduleName = "TicTacToe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/giannastylianou/Documents/GitHub/TicTacToeApp/TicTacToe/TicTacToeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "560">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
