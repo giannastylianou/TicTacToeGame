@@ -11,7 +11,7 @@ This is a classic Player VS Player on a 3x3 grid TicTacToe game which keeps the 
 # Installation
 
 1. Clone the TicTacToeApp repository:
-https://github.com/giannastylianou/TicTacToeApp.git
+https://github.com/giannastylianou/TicTacToeGame.git
 2. Open the TicTacToe.xcodeproj project in Xcode.
 3. Build and run the project on a simulator or a real device.
 4. Have fun!
